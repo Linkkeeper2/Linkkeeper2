@@ -3,7 +3,4 @@ I do a lot of game development, but I'm open to creating applications or softwar
 I code in Python, Java, and C#.
 I also have a YouTube where I play games. (@Linkkeeper2)
 
-<!---
-Linkkeeper2/Linkkeeper2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkkeeper2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linkkeeper2)](https://github.com/Linkkeeper2/github-readme-stats)
