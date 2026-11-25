@@ -1,6 +1,3 @@
-Hi! I'm Linkkeeper2. You can call me Linkk or Linkkeeper.
-I do a lot of game development, but I'm open to creating applications or software!
-I code in Python, Java, and C#.
-I also have a YouTube where I play games. (@Linkkeeper2)
-
-[![Linkkeeper2's GitHub stats](https://github-stats-sepia-pi.vercel.app)](https://github.com/Linkkeeper2/github-readme-stats)
+Currently a full-time Computer Science major at UMass Amherst!
+I've made projects in Python, Java, C, C++, C# (with/without Unity), HTML, CSS, JavaScript, TypeScript, SQL, PHP, Bootstrap, JQuery, MongoDB, NodeJS, and ExpressJS!
+I'm most experienced in C# and JavaScript & TypeScript (usually with NodeJS), but I'm open to any language/library I know!
